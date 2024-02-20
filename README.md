@@ -1,3 +1,5 @@
-# Welcome To Our Sentiment Analysis Project!
+# Welcome To Our Yelp Analysis Project!
 
-**h**
+**Creators**: Aidan Wiktorowicz (Project Lead), Ananya Goel, Rishi Raghavan
+
+## Repository Contents
